@@ -21,13 +21,13 @@ L-Systems Demo is a visual representation of fractal patterns generated using L-
 # Output
 ![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im1.jpeg)
 ![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im2.jpeg)
-!(https://github.com/Khushi-patel1221/L-system/blob/main/images/im3.jpeg)
+![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im3.jpeg)
 
 ## Installation 🚀
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/lsystems-demo.git
+   git clone https://github.com/Khushi-patel1221/L-system.git
    cd lsystems-demo
 
