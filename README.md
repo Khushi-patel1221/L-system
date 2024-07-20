@@ -16,23 +16,14 @@ L-Systems Demo is a visual representation of fractal patterns generated using L-
 
 - **ReactJS:** Used for building the frontend, ensuring efficient UI rendering, interactivity, and responsiveness.
 - **CSS:** Custom styling using CSS to tailor the design and layout of the L-Systems Demo according to usability requirements.
+- **JavaScript:** Used for implementing the L-System algorithm, updating the UI based on user interactions, and rendering the graphics on the canvas.
 
-### Backend:
-
-- **Node.js:** Powers the backend, handling server-side logic and API integrations effectively.
-- **Express:** Facilitates routing and middleware management, enabling seamless communication between the frontend and backend.
-
-### Database:
-
-- **MongoDB:** Stores data related to user-generated L-System configurations and customizations.
-
-### Authentication:
-
-- **Bcrypt:** Used for hashing passwords securely before storing them in the database.
+# Output
+![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im1.jpeg)
+![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im2.jpeg)
+!(https://github.com/Khushi-patel1221/L-system/blob/main/images/im3.jpeg)
 
 ## Installation 🚀
-
-### Backend
 
 1. **Clone the repository:**
 
@@ -40,8 +31,3 @@ L-Systems Demo is a visual representation of fractal patterns generated using L-
    git clone https://github.com/your-username/lsystems-demo.git
    cd lsystems-demo
 
-
-# Output
-![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im1.jpeg)
-![](https://github.com/Khushi-patel1221/L-system/blob/main/images/im2.jpeg)
-!(https://github.com/Khushi-patel1221/L-system/blob/main/images/im3.jpeg)
